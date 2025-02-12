@@ -116,9 +116,9 @@ Here’s a glimpse of who I am and what I build.
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiva1325&show_icons=true&locale=en&layout=compact" alt="shiva1325" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-vivek108&show_icons=true&locale=en&layout=compact" alt="sai-vivek108" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiva1325&show_icons=true&locale=en" alt="shiva1325" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-vivek108&show_icons=true&locale=en" alt="sai-vivek108" /></p>
 ---
 
 💡 *My versatile tech arsenal allows me to view problems from multiple perspectives and deliver quick, innovative solutions.*
