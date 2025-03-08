@@ -120,6 +120,16 @@ Here’s a glimpse of who I am and what I build.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-vivek108&show_icons=true&locale=en&layout=compact" alt="sai-vivek108" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-vivek108&show_icons=true&locale=en" alt="sai-vivek108" /></p>
+<br><br>
+<h3 align="left">🚀 Leetcode Stats:</h3>  
+
+<br>  
+
+<p align="left">  
+  <img src="https://leetcard.jacoblin.cool/starlord_c?ext=heatmap" alt="Leetcode Stats" />  
+</p>  
+<br><br>
+
 ---
 
 💡 *My versatile tech arsenal allows me to view problems from multiple perspectives and deliver quick, innovative solutions.*
