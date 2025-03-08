@@ -126,7 +126,7 @@ Here’s a glimpse of who I am and what I build.
 <br>  
 
 <p align="left">  
-  <img src="https://leetcard.jacoblin.cool/starlord_c?ext=heatmap" alt="Leetcode Stats" />  
+  <img src="https://leetcard.jacoblin.cool/naruto_sai?ext=heatmap" alt="Leetcode Stats" />  
 </p>  
 <br><br>
 
