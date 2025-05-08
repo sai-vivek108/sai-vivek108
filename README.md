@@ -15,7 +15,7 @@ Here’s a glimpse of who I am and what I build.
 ---
 
 ## **Projects: Built with Interest and Progress**
-- [**Multi Drone - Multi Human** ](https://github.com/sai-vivek108/MyDroneSim-git)  
+- [**Real-Time Drone Swarm Control Testbed with AI-Driven Navigation and Telemetry** ](https://github.com/sai-vivek108/MyDroneSim-git)  
   Working on an AI-powered drone navigation system in Unity using autonomous agents for dynamic obstacle avoidance & task execution.
 
 ---
