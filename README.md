@@ -15,8 +15,8 @@ Here’s a glimpse of who I am and what I build.
 ---
 
 ## **Projects: Built with Interest and Progress**
-- [**Real-Time Drone Swarm Control Testbed with AI-Driven Navigation and Telemetry** ](https://github.com/sai-vivek108/MyDroneSim-git)  
-  Working on an AI-powered drone navigation system in Unity using autonomous agents for dynamic obstacle avoidance & task execution.
+- [**My Drone Sim** ](https://github.com/sai-vivek108/MyDroneSim-git)  
+  Built a modular drone simulation framework with AI-driven navigation and real-time telemetry across multi-client networking (5+ nodes) with performance dashboards to track real-time telemetry.
 - [**DL:BitByBit** ](https://github.com/sai-vivek108/DL-BitByBit.git)  
   This is my personal playground where I try to build deep learning models from scratch, piece by piece. It's pretty much self paced to enhance my understanding of the models. 
 ---
